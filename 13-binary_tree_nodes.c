@@ -6,7 +6,7 @@
  *
  * Return: Number of nodes with at least 1 child. If tree is NULL, return 0.
  */
-size_t binary_tree_nodes(const binary_trees_t *tree)
+size_t binary_tree_nodes(const binary_tree_t *tree)
 {
 	if (tree == NULL)
 		return (0);
