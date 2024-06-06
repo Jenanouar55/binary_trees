@@ -28,7 +28,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 }
 
 /**
- *_pow_recursion - returns the value of x raised to the power of y
+ *_bin_recursion - returns the value of x raised to the power of y
  *@x: the value to exponentiate
  *@y: the power to raise x to
  *Return: x to the power of y, or -1 if y is negative
